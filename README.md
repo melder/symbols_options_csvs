@@ -1,4 +1,5 @@
 # symbols_options_csvs
+
 CSVs with all NASDAQ / NYSE symbols + symbols that offer monthly or weekly options
 
 * symbols - all publically traded symbols
